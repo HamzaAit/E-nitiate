@@ -3,13 +3,13 @@ h1 {
 	color: #33cc00;
 }
 p {
-	color: rgb(51, 51, 255);
+	color: White;
 	font-size: 25;
-	text-shadow: 1px 1px #66ff33;
+	text-shadow: 1px 1px Black;
 	font-family: "Comic Sans MS", Cursive, serif;
 }
 body {
-	background-image: url("http://cache4.asset-cache.net/xd/473016053.jpg?v=1&c=IWSAsset&k=2&d=62CA815BFB1CE480AD48B3AF2BAE5ED46ADD405C56CDAC576D8E2331157E1A688273782862D39B95");
+	background-image: url("http://cdn.wonderfulengineering.com/wp-content/uploads/2014/04/code-wallpaper-16.jpg");
 }
 img.logo {
     margin-left: 425px;
@@ -18,8 +18,8 @@ img.logo {
 }
 button {
 	color: Green;
-	background-color: Red;
-	border-style: round;
+	background-color: Yellow;
+	border-style: dotted;
 	border-width: 5px;
 	border-color: Blue;
 }
