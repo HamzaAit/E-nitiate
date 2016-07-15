@@ -1,0 +1,18 @@
+h1 {
+	margin-left: 550px;
+	color: #33cc00;
+}
+p {
+	color: rgb(51, 51, 255);
+	font-size: 25;
+	text-shadow: 1px 1px #66ff33;
+	font-family: "Comic Sans MS", Cursive, serif;
+}
+body {
+	background-image: url("http://cache4.asset-cache.net/xd/473016053.jpg?v=1&c=IWSAsset&k=2&d=62CA815BFB1CE480AD48B3AF2BAE5ED46ADD405C56CDAC576D8E2331157E1A688273782862D39B95");
+}
+img.logo {
+    margin-left: 425px;
+	height: 300px;
+    width: 600px;
+}
