@@ -7,7 +7,7 @@
       <p>I am 16 years old from Temara. How beautiful is programming? It's like a cold wind that blows in your face when
  it's extremely hot, Like the sweet taste of chicken after weeks and weeks of hunger. The feeling of satisfaction when you
  realise that your code, your own creation, is just an overwhelming feeling of happiness, you feel proud and glad!
- Ever since my first line of code: print("Hello World!"), I fell in love with this science, that's sadly not given the importance
+ Ever since my first line of code: print("Hello World!"), I fell in love with this science and I felt the love of the creation. But sadly, it's given the importance
  it deserves in our education system. All those who, just like me, had the same passion for programming, were lost in the dark,
  not knowing a=what the next is to follow their dreams and hopes, and pursue what they love and enjoy, rather than what society
  made typical, and the E-nitiate camp is the torch in the dark, that will help us, and guide us, and show us the path that we've
