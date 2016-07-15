@@ -16,3 +16,10 @@ img.logo {
 	height: 300px;
     width: 600px;
 }
+button {
+	color: Green;
+	background-color: Red;
+	border-style: round;
+	border-width: 5px;
+	border-color: Blue;
+}
