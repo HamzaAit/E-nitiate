@@ -10,7 +10,7 @@
  Ever since my first line of code: print("Hello World!"), I fell in love with this science and I felt the love of the creation. But sadly, it's not given the importance
  it deserves in our education system. All those who, just like me, had the same passion for programming, were lost in the dark,
  not knowing what the next is to follow their dreams and hopes, and pursue what they love and enjoy, rather than what society
- made typical, and the E-nitiate camp is the torch in the dark, that will help us, and guide us, and show us the path that we've
+ made typical, and the <a href="http://www.aui.ma/en/media-room/news/al-akhawayn-news/3208-aui-students-among-aeif-winning-team.html">E-nitiate camp</a> is the torch in the dark, that will help us, and guide us, and show us the path that we've
  been desperately looking for. It just seemed too good to be true, and it soon became my biggest objective for the summer, I took
  it really seriouly, and I did my best at the application process, and I fortunately got in! i'm currently witnessing the first
  days of the camp, and I can honestly tell you it's better than what I expected, and believe me when I say that my expectations
