@@ -1,9 +1,12 @@
 # E-nitiate
 <!DOCTYPE html>
 <html>
-  <title>My Page</title>
-  <body>
-      <h1>Hamza Aithssayene</h1>
+<head>
+	<title>My page</title>
+	<link rel="stylesheet" type="text/css" href="mystyle.css">
+</head>
+<body>
+<H1>Hamza Aithssayene</H1>
       <p>I am 16 years old from Temara. How beautiful is programming? It's like a cold wind that blows in your face when
  it's extremely hot, Like the sweet taste of chicken after weeks and weeks of hunger. The feeling of satisfaction when you
  realise that your code, your own creation, made the otherwise useless machine follow your will, is just an overwhelming feeling of happiness, you feel proud and glad!
@@ -18,6 +21,6 @@
  nice and smart, you couldn't find better. And the variety of the activities available is just unbelievable. In E-nitiate, you 
  learn what you're pationate about, while having a lot of fun! This is just amazing, and I dam not looking forward to say good-bye.
   <h4> Thank you! </h4>
-  <img src="https://scontent-mrs1-1.xx.fbcdn.net/v/t1.0-9/13076657_698736350230064_617730830912856624_n.png?oh=ea8e345fe2c3137912fb92029e884c7f&oe=5833B106" style="width:304px;height:228px;">  
-  </body>
+  <img class="logo" src="https://scontent-mrs1-1.xx.fbcdn.net/v/t1.0-9/13076657_698736350230064_617730830912856624_n.png?oh=ea8e345fe2c3137912fb92029e884c7f&oe=5833B106"> 
+</body>
 </html>
