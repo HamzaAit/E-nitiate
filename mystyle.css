@@ -1,6 +1,7 @@
 h1 {
 	margin-left: 550px;
-	color: #33cc00;
+	color: Red;
+	text-shadow: 1px 1px LightGreen;
 }
 p {
 	color: White;
@@ -17,9 +18,15 @@ img.logo {
     width: 600px;
 }
 button {
-	color: Green;
-	background-color: Yellow;
-	border-style: dotted;
+	color: Black;
+	background-color: SkyBlue;
+	border-style: round;
 	border-width: 5px;
 	border-color: Blue;
+}
+footer {
+	color: LightGreen;
+}
+a {
+	color: White;
 }
