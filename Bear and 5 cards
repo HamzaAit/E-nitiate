@@ -1,0 +1,39 @@
+t1=eval(input("choose a first number: "))
+t2=eval(input("choose a second number: "))
+t3=eval(input("choose a third number: "))
+t4=eval(input("choose a fourth number: "))
+t5=eval(input("choose a fifth number: "))
+if t1==t2 and t2==t3:
+	print(t4+t5)
+elif t1==t2:
+	print(t3+t4+t5)
+elif t1==t3:
+	print(t2+t4+t5)
+elif t1==t4:
+	print(t2+t3+t5)
+elif t1==t5:
+	print(t2+t3+t4)
+elif t2==t3:
+	print(t1+t4+t5)
+elif t2==t4:
+	print(t1+t3+t5)
+elif t2==t5:
+	print(t1+t3+t4)
+elif t3==t4:
+	print(t1+t2+t5)
+elif t3==t5:
+	print(t1+t2+t4)
+elif t4==t5:
+	print(t1+t2+t3)
+elif t1==t2 and t2==t3:
+	print(t4+t5)
+elif t1==t2 and t2==t4:
+	print(t3+t5)
+elif t1==t2 and t2==t5:
+	print(t3+t4)
+elif t2==t3 and t3==t4:
+	print(t1+t5)
+elif t2==t3 and t3==t5:
+	print(t1+t4)
+elif t3==t4 and t4==t5:
+	print(t1+t2)
