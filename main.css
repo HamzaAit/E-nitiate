@@ -2507,7 +2507,7 @@
 
 	#header {
 		background-attachment: scroll,							scroll,					fixed;
-		background-image: url("images/top-3200.svg"), url("images/overlay.png"), url("../../images/header.jpg");
+		background-image: url("images/top-3200.svg"), url("images/overlay.png"), url("http://previews.123rf.com/images/hlehnerer/hlehnerer0910/hlehnerer091000017/5665815-Blue-Html-code-text-with-black-background-Stock-Photo-coding.jpg");
 		background-position: bottom center,					top left,				center center;
 		background-repeat: repeat-x,						repeat,					no-repeat;
 		background-size: 3200px 460px,					auto,					cover;
@@ -3141,4 +3141,11 @@
 	img#credits {
 		width: 30px;
         height: 35px;
+	}
+	li#khbiza {
+		color: red;
+	}
+	img#organizers {
+		height: 500px;
+		width: 500px;
 	}
